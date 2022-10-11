@@ -1,4 +1,4 @@
-# fast-typing
+# keyboard speed test
 
 ## Project setup
 ```
