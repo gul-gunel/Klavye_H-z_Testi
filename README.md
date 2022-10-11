@@ -1,5 +1,7 @@
 # keyboard speed test
 
+You can check the app here [Click Me](https://keyboard-speed-test.vercel.app/)
+
 ## Project setup
 ```
 yarn install
